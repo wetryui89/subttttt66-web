@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://subweb-heroku.yunbai.workers.dev/sub?" }],
+        backendOptions: [{ value: "https://royal-voice-78c8.diuekcnoicx67.workers.dev/sub?" }],
         remoteConfig: [
         {
             label: "ACL4SSR",
